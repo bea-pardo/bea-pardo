@@ -1,6 +1,6 @@
 # beapardo
 
-👋 ¡Hola! Soy Antonio Capel
+👋 ¡Hola! Soy 
 Desarrollador Frontend | Estudiante DAW | JavaScript & IA aplicada a negocios
 LinkedIn Portfolio Email
 
