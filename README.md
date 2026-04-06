@@ -1,4 +1,3 @@
-# beapardo
 # 👋 ¡Hola! Soy Beatriz Pardo Llaguno
 
 ### 👩‍💻 Desarrolladora de Aplicaciones Multiplataforma en formación
