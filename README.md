@@ -59,6 +59,7 @@ Esta conjunción interdisciplinar me capacita para abordar el ciclo de vida del 
 ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 ![Lumion](https://img.shields.io/badge/Lumion-FF3300?style=for-the-badge)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-F32735?style=for-the-badge&logo=autodesk&logoColor=white)
+
 ---
 
 ### 🎓 Formación Académica
