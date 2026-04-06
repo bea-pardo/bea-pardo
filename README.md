@@ -16,7 +16,7 @@ Habilidades directivas consolidadas como gestión eficiente de equipos, la optim
 Esta conjunción interdisciplinar me capacita para abordar el ciclo de vida del software no solo desde la ejecución técnica del código, sino con una visión integral, altamente organizativa y orientada a la eficiencia empresarial.
 
 * 🌍 **Ubicación:** Bizkaia
-* 🔗 **Enlaces:** [LinkedIn](https://linkedin.com)
+* 🔗 [LinkedIn](https://linkedin.com)
 
 ---
 
