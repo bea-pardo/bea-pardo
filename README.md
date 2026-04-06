@@ -1,139 +1,70 @@
 # beapardo
+# 👋 ¡Hola! [cite_start]Soy Beatriz Pardo Llaguno [cite: 2]
 
-👋 ¡Hola! Soy 
-Desarrollador Frontend | Estudiante DAW | JavaScript & IA aplicada a negocios
-LinkedIn Portfolio Email
+### [cite_start]👩‍💻 Desarrolladora de Aplicaciones Multiplataforma en formación [cite: 16, 18]
 
-🎓 Técnico Superior en DAW (en curso) | 💼 Open to Work / Prácticas | 📍 Málaga, España
+---
 
-🚀 Sobre mí
-Soy desarrollador Frontend en formación con experiencia previa en liderazgo de equipos y emprendimiento.
-Mi foco actual está en:
+### 🚀 Sobre mí
 
-JavaScript y desarrollo web clásico (HTML5 + CSS3 + JS)
-Primeros pasos con React (nivel inicial, en aprendizaje)
-IA aplicada a negocios como apoyo al desarrollo, la productividad y la toma de decisiones
-No soy especialista aún: estoy construyendo base sólida con proyectos reales y mucha disciplina.
+[cite_start]Profesional en transición hacia el desarrollo de software, actualmente cursando el Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)[cite: 18, 29]. [cite_start]Poseo una sólida base analítica y organizativa derivada de mi experiencia previa como Delineante Proyectista y gestora de equipos (Store Manager)[cite: 18]. 
 
-🌱 Cursando 2º de Desarrollo de Aplicaciones Web (DAW)
-💻 Foco principal: Frontend con JavaScript, HTML5 y CSS3
-🤖 Interés real en IA aplicada al desarrollo y a los negocios
-🔐 Conocimientos básicos de ciberseguridad web
-🎯 Objetivo: realizar prácticas y evolucionar hacia Frontend Developer en 2026
-🌍 Experiencia internacional en Francia (2022–2024) — Voluntariado europeo
-🛠️ Stack Tecnológico
-Frontend
-HTML5 CSS3 JavaScript React Bootstrap
+[cite_start]Mi enfoque técnico se centra en la arquitectura de software, la programación orientada a objetos (POO) y la resolución eficiente de incidencias en entornos dinámicos[cite: 19].
 
-Backend
-PHP MySQL Java
+* [cite_start]🌍 **Ubicación:** Portugalete, Vizcaya [cite: 6]
+* [cite_start]📧 **Contacto:** beatrizpardollaguno@gmail.com [cite: 3]
+* [cite_start]🔗 **Enlaces:** [LinkedIn](https://linkedin.com) [cite: 4] | [cite_start][Portfolio en Notion](https://notion.so) [cite: 5]
 
-Python (nivel inicial)
-Python
+---
 
-Actualmente en conceptos básicos (listas, diccionarios, control de flujo). Sin proyectos propios aún.
+### 🛠️ Stack Tecnológico
 
-Herramientas
-Git GitHub VS Code Linux
+**Lenguajes de Programación**
+[cite_start]![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) [cite: 21]
+[cite_start]![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) [cite: 22]
+[cite_start]![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [cite: 23]
 
-IA / Apoyo al desarrollo
-Ingeniería de prompts básica
-Uso de herramientas de IA (como ChatGPT) para:
-generar ideas
-revisar código
-apoyar documentación y exploración de soluciones
-📂 Proyectos Destacados
-📱 Tienda de Móviles
-Mi proyecto más completo y avanzado
-HTML CSS JavaScript
+**Desarrollo Web y Datos**
+[cite_start]![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) [cite: 24]
+[cite_start]![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) [cite: 24]
+[cite_start]![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [cite: 24]
+[cite_start]![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) [cite: 25]
 
-Catálogo de móviles totalmente gestionado en frontend
-Interfaz rápida, ligera y centrada en la experiencia de usuario
-Uso de JavaScript para interacción, navegación y dinamismo
-🛒 Tienda SM
-Segunda tienda online creada desde cero
-PHP Bootstrap MySQL
+**Herramientas y Entornos**
+[cite_start]![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) [cite: 22]
+[cite_start]![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) [cite: 26]
+[cite_start]![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) [cite: 26]
+[cite_start]![Odoo](https://img.shields.io/badge/Odoo-714B67.svg?style=for-the-badge&logo=odoo&logoColor=white) [cite: 27]
 
-Listado de productos gestionado desde base de datos
-Carrito básico y estructura de tienda online
-Maquetación responsive con Bootstrap
-🛡️ ProtegeAhora.com
-Proyecto WordPress real orientado a captación y presencia profesional
-WordPress Elementor SEO básico
+---
 
-Estructura pensada para explicar servicios y generar confianza
-Páginas orientadas a conversión (contacto, servicios, llamada a la acción)
-Optimización básica para posicionamiento y velocidad
-🍕 La Góndola de Ydai
-Web corporativa para restaurante local
-HTML5 CSS3 JavaScript Responsive Design
+### 🎓 Formación Académica
 
-Página adaptable para un negocio real
-Secciones de carta y categorías de productos
-Estructura pensada para SEO básico y facilidad de uso
-📦 Villalobos Logística 2.0
-Portal web para empresa familiar
-HTML CSS PHP JavaScript MySQL
+* **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** | [cite_start]Digitechfp (2024-2026) [cite: 29, 30]
+* **Grado Superior en Diseño en Fabricación Mecánica** | C.F. [cite_start]Somorrostro (2013-2015) [cite: 31]
+* **Grado Superior en Edificación y Obra civil** | C.F. [cite_start]Somorrostro (2010-2012) [cite: 38]
 
-Sistema de gestión sencillo para la empresa
-Formularios de contacto y estructura informativa
-Refuerzo de conceptos de PHP y bases de datos
-👥 Gestor de Contactos
-Aplicación de escritorio CRUD
-Java Swing MySQL MVC
+---
 
-Alta, baja, modificación y listado de contactos
-Uso de patrón MVC
-Primer contacto con aplicaciones de escritorio conectadas a BD
-🌐 Portfolio Personal
-Portfolio profesional en Notion
+### 📜 Certificaciones Oficiales (Cisco NetAcad)
 
-Recopilación de proyectos
-Resumen de habilidades y trayectoria
-Orientado a recruiters y empresas tech
-📊 Estadísticas de GitHub
-Antonio's GitHub stats
+* [cite_start]🥇 Programming Essentials in Python [cite: 8]
+* [cite_start]🥈 Programming Essentials in C [cite: 9]
+* [cite_start]🛡️ Cybersecurity Essentials & Introduction to Cybersecurity [cite: 10, 11]
+* [cite_start]🌐 Networking Basics (Fundamentos de Redes) [cite: 12]
+* [cite_start]📊 Introduction to Data Science [cite: 12]
 
-Top Langs
+---
 
-🎓 Formación
-🎓 Técnico Superior en Desarrollo de Aplicaciones Web (DAW) — Digitech (2024–2026)
-🔐 Diploma en Ciberseguridad — Next Generation EU (2025)
-🌍 Estancia internacional en Francia — Voluntariado europeo (2022–2024)
-📚 Grado en Historia (parcial) — Universidad de Málaga
-💼 Experiencia
-Autónomo – Movilecom | 2018 – 2022
-Emprendedor en telecomunicaciones y seguridad.
-Gestión integral del negocio: ventas, marketing, soporte técnico y atención al cliente.
+### 🧠 Competencias Transversales (Soft Skills)
 
-Coordinador de Equipos — Vodafone | 2015 – 2018
-Liderazgo de equipos comerciales, formación de empleados y mejora de KPIs.
-Desarrollo de habilidades en gestión, comunicación y resolución de conflictos.
+* [cite_start]Resolución de incidencias y pensamiento analítico y lógico[cite: 14].
+* [cite_start]Liderazgo, gestión de equipos y orientación a resultados (KPIs)[cite: 14].
+* [cite_start]Planificación, organización y comunicación efectiva[cite: 15].
 
-🌍 Idiomas
-🇬🇧 Inglés: B2 (competencia funcional, en progreso)
-🇫🇷 Francés: B2 (2 años de experiencia internacional)
-🇪🇸 Español: Nativo
-💡 Soft Skills
-✅ Responsabilidad personal
-✅ Disciplina y persistencia
-✅ Iniciativa y proactividad
-✅ Gestión del tiempo
-✅ Ética profesional
-✅ Adaptabilidad
-✅ Liderazgo colaborativo
+---
 
-🎯 Objetivo Profesional
-Mi objetivo es realizar prácticas y desarrollar mi carrera como Frontend Developer, aplicando buenas prácticas y creando soluciones digitales útiles y centradas en las personas, usando la IA como apoyo.
+### 💼 Experiencia Profesional Destacada
 
-🧠 Frase / Filosofía
-“El código es el medio; el crecimiento, la meta.”
-
-📫 Contacto
-📧 Email: antonio.capel.dev@gmail.com
-💼 LinkedIn: Antonio Capel Ramírez
-🌐 Portfolio: antonio-capel.notion.site
-📱 Teléfono: 681 875 243
-📍 Ubicación: Rincón de la Victoria, Málaga (España)
-
-⭐️ Si te gusta mi trabajo, puedes dejar una estrella en mis repositorios ⭐️
+* **Store Manager / Assistant Manager** | [cite_start]Sector Retail (2016-2024): Liderazgo de equipos, gestión integral de puntos de venta, cumplimiento de objetivos (KPIs) y especialización en resolución de conflictos[cite: 40, 41].
+* **Delineante Proyectista** | [cite_start]Ingeniería y Arquitectura (2019-2021): Desarrollo de planos técnicos, modelado 2D/3D y aplicación de normativa técnica en el diseño estructural[cite: 42, 43].
